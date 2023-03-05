@@ -1,0 +1,15 @@
+{
+
+    "app_title"   : "إسلامي",
+    "setting_icon": "الاعدادات",
+    "sura_name"   : "سورة",
+    "hadeth_name" : "حديث",
+    "quran_icon"  : "القرآن",
+    "hadeth_icon" : "الحديث",
+    "sebha_icon"  : "تسبيح",
+    "radio_icon"  : "الاذاعة",
+    "language"    : "اللغة",
+    "mode"        : "المظهر",
+    "light"       : "فاتح",
+    "dark"        : "مظلم"
+}
